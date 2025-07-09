@@ -18,10 +18,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # 2️⃣ Publish dist/ to an `output` branch served via raw.githubusercontent.com
+      # 2️⃣ Push dist/ to an `output` branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist                # <‑‑ matches the folder above
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
