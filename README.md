@@ -5,11 +5,24 @@
 <!-- ============================= -->
 
 <h1 align="center">Hi, I'm <span style="color:#64FFDA">Aniket&nbsp;Gaikwad</span> 👋</h1>
-<h3 align="center">DevOps Engineer · Full‑Stack Developer · AI Enthusiast</h3>
+
+---
+
+## Stats at a Glance
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aniket-gaikwad&show_icons=true&theme=tokyonight&hide_border=true" width="410" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://leetcard.jacoblin.cool/aniketgaikwad72002?theme=dark&font=Rubik&animation=true&extension=activity" width="410" alt="LeetCode Stats" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aniket17200/profile/blob/output/github-snake-dark.svg" />
+    <img src="https://github.com/Aniket17200/profile/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
+</p>
+
 
 ---
 
@@ -30,23 +43,6 @@
 
 ---
 
-## Stats at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniket-gaikwad&show_icons=true&theme=tokyonight&hide_border=true" width="430" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://leetcard.jacoblin.cool/aniketgaikwad72002?theme=dark&font=Rubik&animation=true&extension=activity" width="430" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aniket17200/profile/blob/output/github-snake-dark.svg" />
-    <img src="https://github.com/Aniket17200/profile/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
-  </picture>
-</p>
-
----
-
 ## Highlights
 
 | Achievement                    | Description                                                      |
@@ -55,6 +51,14 @@
 | ☸️ **K8s Production Roll‑out** | Deployed micro‑services on AWS EKS using Helm & Terraform        |
 | 🔐 **CVE Mitigation**          | Integrated Trivy into pipelines to block vulnerable images       |
 | 🧠 **AI‑Driven Autoscaling**   | Researching predictive scaling using time‑series ML models       |
+
+---
+
+<h3 align="center">DevOps Engineer · Full‑Stack Developer · AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
 
 ---
 
