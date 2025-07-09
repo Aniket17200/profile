@@ -39,7 +39,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniket-gaikwad/aniket-gaikwad/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aniket17200/profile/blob/output/github-snake-dark.svg" />
+    <img src="https://github.com/Aniket17200/profile/blob/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p>
 
 ---
